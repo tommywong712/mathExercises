@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="simeqt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/simeqt_jar</output-path>
+    <root id="archive" name="simeqt.jar">
+      <element id="module-output" name="simeqt" />
+    </root>
+  </artifact>
+</component>
